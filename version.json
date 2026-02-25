@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
-  "downloadUrl": "https://github.com/iam-zekai/kai-office-release/releases/download/v0.1.2/KAI-Office-v0.1.2.zip",
-  "changelog": "API 超时优化 + 智谱 Coding 模型 + 审校增强 + 设置弹窗修复"
+  "version": "0.1.3",
+  "downloadUrl": "https://github.com/iam-zekai/kai-office-release/releases/download/v0.1.3/KAI-Office-v0.1.3.zip",
+  "changelog": "品牌符号升级 + Agent 交互优化 + OpenClaw 渠道标识 + 设置图标修复"
 }
