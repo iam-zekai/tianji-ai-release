@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.2.0/TianJi-AI-v0.2.0.zip",
-  "changelog": "品牌升级：KAI 办公助手 → 天机 AI，全新品牌定位和视觉标识"
+  "version": "0.2.1",
+  "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.2.1/TianJi-AI-v0.2.1.zip",
+  "changelog": "修复 AI 助手回复时白屏问题，增强错误处理机制"
 }
