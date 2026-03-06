@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
-  "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.2.2/TianJi-AI-v0.2.2.zip",
-  "changelog": "代码重构优化，修复白屏问题，增强错误恢复机制，修复 Chrome 90 兼容性"
+  "version": "0.3.0",
+  "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.3.0/TianJi-AI-v0.3.0.zip",
+  "changelog": "WPS 表格 (ET) 全面支持，Agent 进度 UI 升级，思考标签解析，设置面板分组，多项修复与优化"
 }
