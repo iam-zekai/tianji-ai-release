@@ -1,5 +1,5 @@
 {
   "version": "0.5.1",
   "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.5.1/TianJi-AI-v0.5.1-public.zip",
-  "changelog": "Windows 安装修复：选项卡可见性、ET 表格支持、安装脚本对齐 macOS。"
+  "changelog": "Windows PS5.1 安装修复；审校 Kimi temperature 兼容；DeepSeek 超时提示优化。"
 }
