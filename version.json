@@ -1,5 +1,5 @@
 {
   "version": "0.5.1",
   "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.5.1/TianJi-AI-v0.5.1-public.zip",
-  "changelog": "流式审校（实时显示进度）、撤销功能、10+平台最新模型、高级分块策略、多项审校bug修复"
+  "changelog": "Windows 安装修复：选项卡可见性、ET 表格支持、安装脚本对齐 macOS。"
 }
